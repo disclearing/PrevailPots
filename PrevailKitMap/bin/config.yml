@@ -1,0 +1,43 @@
+#1000 = 1 second NO COMMAS | 10000 = 10 Seconds (Its in miliseconds)
+Timer:
+  Archer: 10000
+  EnderPearl: 16000
+  Logout: 30000
+#6 hours = 21600000
+  Gapple: 21600000
+  PvpProt: 1800000
+  SpawnTag: 30000
+  Stuck: 300000
+Scoreboard:
+  lines: true
+  title: "&aServerName &a[Map &c%MAP%&a]"
+classes:
+  miner:
+    enabled: true
+  archer:
+    enabled: true
+  bard:
+    enabled: true
+  assassin:
+    enabled: true
+  rouge:
+    enabled: true
+#Must be lowercase
+Disabled-Faction-Names:
+- 'kohieotw'
+- 'paraeotw'
+- 'hcteamseotw'
+Help:
+- '  &aNigger&bOvidPvP&cNigger'
+- '  Nigger'
+Coords:
+- '  &a300 Nigger'
+- '  CuntSlayer'
+# Supports color codes - Use {reviver} for the player that revived, use {revived} for the player that got revived
+AlphaBroadcast: '{reviver} revived {revived} with their alpha rank!'
+#Server IP - If not localhost you're going to have to alowed remote connections in Redis Config
+redis-server: 'localhost'
+#Redis Port - Default is 6379
+redis-port:  6379
+version: 7.2
+DonateLink: 'http://www.anal.com'

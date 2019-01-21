@@ -1,0 +1,19 @@
+name: PrevailBunkers
+main: com.prevailpots.bunkers.Core
+author: s3ries
+version: 1
+dependencies: [WorldEdit, PermissionsEx]
+commands:
+    setlobbyspawn:
+        description: 'Sets the lobby spawn.'
+        aliases: [sls]
+        usage: '/setlobbyspawn'
+    team:
+        description: 'Team command.'
+        aliases: [f, t]
+        usage: '/team <args> <team>'
+    forcestart:
+        description: 'Starts game no matter what (Might be unsafe).'
+        aliases: [fs]
+        usage: '/forcestart'
+    removetab:

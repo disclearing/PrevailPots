@@ -1,0 +1,96 @@
+name: HCF
+version: 29-{apache@common}
+author: TRE-Prevail
+main: com.prevailpots.hcf.HCF
+softdepend: [ProtocolLib, WorldEdit]
+depend: [Core]
+commands:
+  focus:
+    description: Command used to focus a player for an faction.
+  cobblestone:
+    aliases: [cobble]
+    description: Command used to toggle cobblestone pickup whilst in Miner Class.
+  mobdrops:
+    description: Command used to toggle the pickup of Mob Loot.
+  supreme:
+    description: Command used to allow a player with the Supreme rank to revive an deathbanned player without use of a live.
+  conquest:
+    description: Command used to manage the Conquest Event.
+  glowstone:
+    description: Command used to manage the Glowstone Event.
+  coords:
+    description: Command used to display the coordinates of events and special locations.
+  donor:
+    aliases: [toggledonoronly]
+    description: Command used to toggle a special Donor Only mode.
+  toggleend:
+    description: Command used to close or open the end.
+  spawndragon:
+    description: Command used to spawn an EnderDragon entity in the end world.
+  reloadtab:
+  tab:
+  removetab:
+  list:
+  random:
+    description: Staff command used to randomly teleport to players with two options. Mining or not mining.
+  stats:
+    description: Command used to check the statistics of a player.
+  sotw:
+    description: Command used to manage the SOTW Timer.
+  alpha:
+    description: Command used to manage the alpha commands.
+  refund:
+    aliases: [inv, return]
+    description: Staff command used to refund a players inventory after their death.
+  crowbar:
+    description: Command used to manage crowbars.
+  economy:
+    aliases: [bal, balance, money, eco]
+    description: Command used to modify the economy.
+  eotw:
+    description: Console only utility command to manage the EOTW event.
+  game:
+    description: Command used to manage minigame events.
+  faction:
+    aliases: [f, fac]
+    description: Command used to access faction related commands.
+  gopple:
+    description: Command to check remaining OP apple cooldown time.
+    aliases: [goppletimer, goppletime, gapple]
+  help:
+    aliases: ["?", "ts"]
+    description: Command used to access the help menu and the TS3 help menu.
+  koth:
+    description: Command used to manage KingOfTheHill events.
+  stafflives:
+    description: Staff command used to manage lives from an administrative perspective.
+  location:
+    aliases: [loc]
+    description: Command used to check the location of yourself.
+  logout:
+    aliases: [disconnect]
+    description: Command used to safely logout without an NPC spawning.
+  key:
+    description: Staff command used to manage crate keys.
+  kit:
+    description: Apply kits.
+  kits:
+    description: Display kits.
+  mapkit:
+    description: Command used to check the current map restrictions.
+  pay:
+    description: Command used to allow payment of in-game currency.
+  lives:
+    description: Command used to manage your lives.
+  pvptimer:
+    aliases: [pvp]
+    description: Command used to manage your PvP Timer.
+  servertime:
+    description: Command used to check the date and time of server.
+  setborder:
+    aliases: [setbordersize]
+    description: Staff command used to set the world border.
+  spawn:
+    description: Command used to teleport yourself to the spawn point of the world selected.
+  timer:
+    description: Staff command used to manage player's timers.

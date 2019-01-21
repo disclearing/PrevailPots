@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UHC Bunkers:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/UHC_Bunkers_jar</output-path>
+    <root id="archive" name="UHC Bunkers.jar">
+      <element id="module-output" name="UHC Bunkers" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/jedis-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/commons-pool2-2.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/lombok.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/KitmapDepend/worldedit-bukkit-6.1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/commons-lang3-3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/AETHER.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/PermissionsEx-1.23.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/paperspigot.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/mongo-java-driver-3.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/paperspigot-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/lombok-1.16.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kitmap1/commons-collections4-4.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

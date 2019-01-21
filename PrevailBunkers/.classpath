@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/AETHER.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/Base.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/commons-collections4-4.0.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/commons-lang3-3.5.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/jedis-2.9.0.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/lombok-1.16.6.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/lombok.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/mongo-java-driver-3.3.0.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/paperspigot-api.jar" sourcepath="/USER_HOME/Desktop/kitmap1/paperspigot-api.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/paperspigot.jar" sourcepath="/USER_HOME/Desktop/kitmap1/paperspigot.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/PermissionsEx-1.23.3.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/ProtocolLib.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/worldedit-bukkit-6.1.7.2.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/worldguard-6.1.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/kitmap1/Vault.jar"/>
+	<classpathentry kind="output" path="out/production/UHC Bunkers"/>
+</classpath>
